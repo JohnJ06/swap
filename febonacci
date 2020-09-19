@@ -1,0 +1,11 @@
+nterms=int(input('enter no. of elements'))
+n1=0
+n2=1
+c=0
+while c < nterms:
+print('required series is)    
+print(n1)
+nth=n1+n2
+n1=n2
+n2=nth
+c=c+1
