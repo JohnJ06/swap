@@ -1,0 +1,4 @@
+myList=[12,-7,5,64,-14]
+print(myList[0])
+print(myList[2])
+print(myList[3])
